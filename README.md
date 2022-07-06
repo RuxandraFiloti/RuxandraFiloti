@@ -8,4 +8,3 @@
 RuxandraFiloti/RuxandraFiloti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[Proiect_Baze_de_Date2.zip](https://github.com/RuxandraFiloti/RuxandraFiloti/files/9053315/Proiect_Baze_de_Date2.zip)
